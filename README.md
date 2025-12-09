@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/twitter/follow/_dhruvitparmar?logo=twitter&style=for-the-badge" />
   </a>
 </p>
----
 
 ## 👨‍💻 About Me
 
