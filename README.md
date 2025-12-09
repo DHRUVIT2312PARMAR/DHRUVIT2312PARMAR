@@ -138,18 +138,30 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=dhruvit2312parmar&theme=default&hide_border=false" />
 </p>
 
+---
 
+## 🔝 Top Contributed Repositories
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhruvit2312parmar&limit=5&theme=default&combine_all_yearly_contributions=true" />
+</p>
 
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=dhruvit2312parmar&icon=0&color=0" />
+  </a>
+</p>
 
 ---
 
 ## ☕ Support Me
 
-<p>
+<p><center>
 <a href="https://www.buymeacoffee.com/dhruvitparmar">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
-</a>
+</a></center>
 </p>
 
 ---
