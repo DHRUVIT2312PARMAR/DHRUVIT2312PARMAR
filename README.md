@@ -131,17 +131,19 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvit2312parmar&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvit2312parmar&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvit2312parmar&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhruvit2312parmar&theme=default&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruvit2312parmar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvit2312parmar&theme=default&hide_border=false&layout=compact" />
 </p>
+
 
 
 ---
