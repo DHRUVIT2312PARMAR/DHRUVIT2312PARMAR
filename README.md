@@ -55,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-</p><br><br>
+</p><br>
 
 <!-- ================= FRONTEND ================= -->
 <h3>🎨 Frontend Development</h3>
@@ -66,7 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-</p><br><br>
+</p><br>
 
 <!-- ================= BACKEND ================= -->
 <h3>⚙️ Backend Development</h3>
@@ -77,14 +77,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
-</p><br><br>
+</p><br>
 
 <!-- ================= MOBILE ================= -->
 <h3>📱 Mobile App Development</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-</p><br><br>
+</p><br>
 
 <!-- ================= DATABASE ================= -->
 <h3>🗄️ Databases</h3>
@@ -95,7 +95,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-</p<br><br>
+</p<br>
 
 <!-- ================= CLOUD & DEVOPS ================= -->
 <h3>☁️ Cloud & DevOps</h3>
@@ -105,7 +105,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-</p><br><br>
+</p><br>
 
 <!-- ================= DATA / AI ================= -->
 <h3>🤖 Data Science & AI</h3>
@@ -113,7 +113,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-</p><br><br>
+</p><br>
 
 <!-- ================= TOOLS ================= -->
 <h3>🧰 Tools & Software</h3>
