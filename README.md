@@ -148,14 +148,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhruvit2312parmar&icon=0&color=0" />
-  </a>
-</p>
-
----
-
 ## ☕ Support Me
 
 <p><center>
