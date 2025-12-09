@@ -7,13 +7,6 @@
     <img src="https://img.shields.io/twitter/follow/_dhruvitparmar?logo=twitter&style=for-the-badge" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvit2312parmar&theme=radical" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
