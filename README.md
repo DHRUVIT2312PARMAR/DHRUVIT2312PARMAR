@@ -95,7 +95,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-</p<br>
+</p><br>
 
 <!-- ================= CLOUD & DEVOPS ================= -->
 <h3>☁️ Cloud & DevOps</h3>
