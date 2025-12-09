@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **📧 dhruvitpc@gmail.com 📞 +91 9016710369**
 
-- 📄 Know about my experiences [B.Sc Computer Science | MCA Student | Cybersecurity Trainee](B.Sc Computer Science | MCA Student | Cybersecurity Trainee)
+- 📄 Know about my experiences [B.Sc Computer Science | MCA Student | Cybersecurity Trainee]
 
 - ⚡ Fun fact **I think I am funny & I work with 100% focus!**
 
@@ -43,9 +43,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhruvitparmar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhruvitparmar" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvit2312parmar&show_icons=true&locale=en&layout=compact" alt="dhruvit2312parmar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvit2312parmar&show_icons=true&locale=en" alt="dhruvit2312parmar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvit2312parmar&" alt="dhruvit2312parmar" /></p>
